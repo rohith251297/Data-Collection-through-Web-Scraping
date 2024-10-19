@@ -8,7 +8,6 @@ This project implements a web scraper that fetches and parses HTML content from 
 
 Before running the project, ensure you have the following packages installed:
 
-- Python 3.x
 - `requests`
 - `beautifulsoup4`
 - `langdetect`
